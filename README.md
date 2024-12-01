@@ -1,16 +1,28 @@
-## Hi there 👋
+Project Title:  Taste Quest
+ Objective:  
+Create a user friendly and engaging website for [Taste qest] to showcase its menu, ambiance, and services, while enabling online reservations and orders.
 
-<!--
-**TasteQuest/TasteQuest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Key Features: 
+   Homepage:  Attractive visuals and a welcome message.
+   Menu:  Detailed descriptions, prices, and photos of dishes.
+   Reservation System:  Online reservation form and backend management.
+   Online Ordering:  Easy interface with payment gateway integration.
+   About Us:  Information about the restaurant, founders, and testimonials.
+   Contact Us:  Contact details, interactive map, and inquiry form.
+   Gallery:  Photo and video showcases.
+   Blog:  Regular updates on recipes, events, and news.
+   Social Media Integration:  Links to social profiles and sharing buttons.
+   SEO and Analytics:  Optimization and performance tracking.
 
-Here are some ideas to get you started:
+ Technologies Used:  
+  HTML, CSS, JavaScript for front end.
+  PHP/Node.js/Python for back end.
+  MySQL/MongoDB for database.
+  Bootstrap for responsive design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Timeline: 
+  Planning: 2 weeks
+  Design: 3 weeks
+  Development: 5 weeks
+  Testing: 2 weeks
+  Launch: 1 week
